@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CABTest</string>
+    <string name="add">Add</string>
+    <string name="more">More</string>
+    <string name="select">Select</string>
+    <string name="select_all">Select All</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+</resources>
